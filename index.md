@@ -8,6 +8,7 @@
 - For Probability [link](http://julio.staff.ipb.ac.id/files/2015/02/Ross_8th_ed_English.pdf)
 - For Statistics [link]()
 - Probability for Statistics and Machine Learning [link](https://doc-0g-5o-docs.googleusercontent.com/docs/securesc/sh3o3mv4k8oa1if9daik9hlebl05g1ob/fkf5r4gestaj1n91rgff7qhg5a1nirrm/1536724800000/06686066938771024201/06686066938771024201/1657K45coWOCRiA1FVCtTTV8wJxGR0r2-?e=download&nonce=a5jikrb81i306&user=06686066938771024201&hash=0qfopr4ekl5ca8jiureh9urkfqnoi97j)
+- Python for Probability and Statistics [https://github.com/liuchengxu/books/raw/master/docs/src/Theory/Python-for-Probability-Statistics-and-Machine-Learning.pdf]
 - Combine With These Two Parallel [link](http://greenteapress.com/thinkstats2/thinkstats2.pdf)
 
 
