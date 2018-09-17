@@ -15,6 +15,7 @@
 - Prob & Stat Ross (Teacher) [link](http://www.r-5.org/files/books/computers/algo-list/statistics/Sheldon_Ross-Introduction_to_Probability_and_Statistics-EN.pdf)
 - Combine With These Two Parallel(Think Stat 2) [link](http://greenteapress.com/thinkstats2/thinkstats2.pdf)
 - Practical Statistics for Data Science(Just Ref for Key ponts) [link](http://file.allitebooks.com/20170726/Practical%20Statistics%20for%20Data%20Scientists.pdf)
+- An Introduction to Statistics with Python. [link](https://drive.google.com/uc?export=download&id=13XkkDXHYeZatMW3MbTbuH2sC3hF2njoZ)
 ----   
 
 ### Video Lectures :
