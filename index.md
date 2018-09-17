@@ -14,7 +14,7 @@
 - Python for Probability and Statistics [link](https://github.com/liuchengxu/books/raw/master/docs/src/Theory/Python-for-Probability-Statistics-and-Machine-Learning.pdf)
 - Prob & Stat Ross (Teacher) [link](http://www.r-5.org/files/books/computers/algo-list/statistics/Sheldon_Ross-Introduction_to_Probability_and_Statistics-EN.pdf)
 - Combine With These Two Parallel(Think Stat 2) [link](http://greenteapress.com/thinkstats2/thinkstats2.pdf)
-
+- Practical Statistics for Data Science(Just Ref for Key ponts) [link](http://file.allitebooks.com/20170726/Practical%20Statistics%20for%20Data%20Scientists.pdf)
 ----   
 
 ### Video Lectures :
