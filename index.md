@@ -25,10 +25,7 @@
 -----
 
 ### Video Lectures :  
- - Introduction to statistics : [link](https://www.youtube.com/watch?v=VPZD_aij8H0)
-    - Course Website [link](https://ocw.mit.edu/courses/mathematics/18-650-statistics-for-applications-fall-2016/)     
+ - Introduction to statistics : [link](https://www.youtube.com/watch?v=VPZD_aij8H0) Course Website [link](https://ocw.mit.edu/courses/mathematics/18-650-statistics-for-applications-fall-2016/)     
     
 -----
-
-
-#### curriculam [link](http://datasciencemasters.org/)   
+##### curriculam [link](http://datasciencemasters.org/)   
