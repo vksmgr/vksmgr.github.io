@@ -26,5 +26,10 @@
 ### Video Lectures :  
  - Introduction to statistics : [link](https://www.youtube.com/watch?v=VPZD_aij8H0) Course Website [link](https://ocw.mit.edu/courses/mathematics/18-650-statistics-for-applications-fall-2016/)    
  
+ -----
+### Natural Language Processing :  
+ - Statistical Natural Language Processing : [link](https://drive.google.com/uc?export=download&id=1AoZP2jIYWj3mI_NsnAaxasyMdof7XhQg)
+ - Speach And Language Processing : [link](https://drive.google.com/uc?export=download&id=1j02snI51qqYtq52UAbANqefP5hkomXZM)
+ 
 -----
 ##### curriculam [link](http://datasciencemasters.org/)   
