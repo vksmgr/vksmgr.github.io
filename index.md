@@ -14,7 +14,7 @@
 -----   
 ### Machine Learning (Step - III) :
 - Foundation Of Machine Learning (Video) [link](https://bloomberg.github.io/foml/#home)
-- Introduction to Statistical Learning [link](https://www-bcf.usc.edu/~gareth/ISL/ISLR%20Seventh%20Printing.pdf)  [videos](https://www.youtube.com/watch?v=3jQs02dbfrI&list=PL06ytJZ4Ak1rXmlvxTyAdOEfiVEzH00IK) 
+- Introduction to Statistical Learning [book](https://www-bcf.usc.edu/~gareth/ISL/ISLR%20Seventh%20Printing.pdf)  [videos](https://www.youtube.com/watch?v=3jQs02dbfrI&list=PL06ytJZ4Ak1rXmlvxTyAdOEfiVEzH00IK) 
 
  -----
 ### Natural Language Processing :  
